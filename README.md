@@ -34,3 +34,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Objetivo
+El objetivo de este proyecto es aprender sobre el uso de redux-toolkit y como facilita el manejo de estados globales y el debug.
+Para esto, se creó esta pagina web que muestra imagenes aletorias de perros que son obtenidos de [Dog Ceo](ttps://dog.ceo/dog-api/)
+y el usuario puede darle like o no. Las imagenes que sean seleccionadas como favoritas, aparecen en una pestaña de favoritos.
